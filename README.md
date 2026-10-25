@@ -1,36 +1,40 @@
 <div align="center">
-  <img src="./assets/editorial-header.svg" width="100%" alt="Ariyana, marketing and software projects" />
+  <img src="./assets/editorial-header.svg" width="100%" alt="Ariyana | Automation, Game Development, and Vietnamese Localization" />
 
-  <p><strong>Marketing by trade. Tech by obsession.</strong></p>
-  <p>Stories with signal. Systems with taste.</p>
-
-  <img src="./assets/editorial-body.svg" width="100%" alt="Ariyana creative and technical profile" />
+  <h1>Ariyana</h1>
+  <p>Automation, game development, and Vietnamese localization.</p>
+  <p>I like building tools that solve real problems and experimenting with software that is fun to use.</p>
 </div>
 
-# Ariyana
+## About me
 
-I work across content, storytelling, and software. This profile is where I share the tools, experiments, and projects I spend time building.
+I work across marketing, content, and software development. Some of my projects help with everyday operations; others come from a curiosity about games, interfaces, and how things work behind the scenes.
 
-Most of my work starts with a practical problem: an awkward manual process, a game feature I want to explore, or something that would be easier with a small piece of software. I prefer clear documentation and projects that are honest about what works and what is still unfinished.
+I share the code, the decisions behind it, and the parts that still need work. If a project is experimental or not ready to deploy, its repository should say so.
 
-## Projects
+## Featured projects
 
-| Project | What you'll find |
-| --- | --- |
-| [Guest Check-in Automation](https://github.com/ass3mble/guest-checkin-automation) | A Python service for guest check-in, document reading, Telegram review, and optional booking and smart-lock integrations. |
-| [DRAX FPS](https://github.com/ass3mble/drax-fps) | A browser-based tactical shooter with multiplayer networking, maps, weapons, and a work-in-progress game engine. |
-| [Modern Warfare 4 Vietnamese Localization](https://github.com/ass3mble/modern-warfare-4-vietnamese-pack) | A community Vietnamese translation package with an offline installer and compatibility checks. |
-| [WeMod (Wand) Patcher](https://github.com/ass3mble/wemod-wand-pro-patcher) | A Windows executable shared for local Electron application patching and compatibility research. |
+| Project | What it does | Current scope |
+| --- | --- | --- |
+| **[Guest Check-in Automation](https://github.com/ass3mble/guest-checkin-automation)** | Helps manage guest information, document extraction, Telegram review, and optional booking or smart-lock integrations. | Active development; security and deployment guidance included |
+| **[DRAX FPS](https://github.com/ass3mble/drax-fps)** | A tactical browser shooter built with Three.js, React, TypeScript, and a WebSocket multiplayer server. | Engine refactor in progress; published snapshot is not yet build-ready |
+| **[Modern Warfare 4 Vietnamese Localization](https://github.com/ass3mble/modern-warfare-4-vietnamese-pack)** | Community translation work covering campaign dialogue, subtitles, and game text, with an offline installer. | Public V6.157 package; installation compatibility checks included |
+| **[WeMod (Wand) Patcher](https://github.com/ass3mble/wemod-wand-pro-patcher)** | A Windows utility shared for local Electron archive and application compatibility research. | Compiled executable; source code is not published in that repository |
 
-## What interests me
+## What I focus on
 
-- Making everyday work less repetitive with thoughtful automation.
-- Building interactive experiences and experimenting with game mechanics.
-- Language, localization, and making software easier to use.
-- Writing documentation that people can actually follow.
+**Automation:** Cutting down repetitive work while keeping people in control of important decisions.
 
-Each project has its own setup instructions, limitations, and license details. Check the repository before downloading or running anything, especially when a project is still being developed.
+**Games:** Exploring real-time systems, multiplayer networking, combat mechanics, and responsive interfaces.
+
+**Localization:** Making dialogue and interface text feel natural without losing the original meaning or context.
+
+**Documentation:** Clear setup steps, known limitations, and useful examples instead of exaggerated claims.
+
+## Explore the repositories
+
+The repositories above contain their own instructions and licensing information. Start with each project's README before installing anything or using it with real data.
 
 <div align="center">
-  <img src="./assets/footer-glow.svg" width="100%" alt="Words for humans, systems for scale" />
+  <img src="./assets/footer-glow.svg" width="100%" alt="Ariyana | Words for humans, systems for scale" />
 </div>
